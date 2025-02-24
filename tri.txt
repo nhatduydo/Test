@@ -1,3 +1,10 @@
+
 nhanh cua duy moi tao, duy da sua file nay
 if (name == duy):
 	print("nhanh duy")
+
+nhanh cua main moi tao, main da sua file nay, duy khoi phai lam
+if (name == main):
+	print("nhanh main")
+
+
