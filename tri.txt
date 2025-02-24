@@ -1,2 +1,3 @@
-tri 
-duy da sua
+nhanh cua duy moi tao, duy da sua file nay
+if (name == duy):
+	print("nhanh duy")
