@@ -1,2 +1,4 @@
-tri 
-duy da sua
+nhanh cua main moi tao, main da sua file nay, duy khoi phai lam
+if (name == main):
+	print("nhanh main")
+
